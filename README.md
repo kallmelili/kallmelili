@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Lili</h1>
 
- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" width="500" height="320" />
 
 <h3 align="center">An Aspiring Devops Engineer & Cloud Support</h3>
 
+- 👨‍🎓 I'm undergoing traineeship for 3 months bootcamp + 6 months apprenticeship to become a Cloud Support and DevOps practitioner!
 - 🌱 I’m currently learning at everything 🤣
 - ⚡ Fun fact **My turtle sleep under the sofa at night**
+- 👩🏻‍💻 **I'm studying on educational websites such as**
+<p align="left"> <a href="https://acloudguru.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/81150223/117520314-2e553700-afda-11eb-8641-7e3d6e0efe80.png" alt="azure" width="70" height="70"/> </a> <a href="https://www.w3schools.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/81150223/117520440-c521f380-afda-11eb-94a6-b09013f2c4be.png" alt="azure" width="70" height="70"/> </a> <a href="https://www.udemy.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/81150223/117520699-31e9bd80-afdc-11eb-83c2-f6f8015ee3c9.png" alt="azure" width="100" height="70"/> </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
