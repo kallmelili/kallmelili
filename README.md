@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lili</h1>
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" width="400" height="220" />
 
 <h3 align="center">An Aspiring Devops Engineer & Cloud Support</h3>
 
