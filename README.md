@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lili</h1>
+
+ <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" width="500" height="320" />
+
 <h3 align="center">An Aspiring Devops Engineer & Cloud Support</h3>
 
+- 🌱 I’m currently learning at everything 🤣
 - ⚡ Fun fact **My turtle sleep under the sofa at night**
 
 <h3 align="left">Connect with me:</h3>
@@ -19,7 +23,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
